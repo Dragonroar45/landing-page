@@ -7,9 +7,10 @@ body{
     font-family: 'Roboto';
 }
 
-/* .upper-section{
-    background-color: #1f2937;
-} */
+.upper-section{
+    padding:16px 150px;
+    background-color: #1f2931;
+} 
 
 .nav{
     display: flex;
