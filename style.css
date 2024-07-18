@@ -35,3 +35,9 @@ ul{
     padding: 100px;
     align-items: center;
 }
+
+.header-logo{
+    font-size: 24px;
+    color: #F9FAf8;
+    font-weight: bold;
+}
