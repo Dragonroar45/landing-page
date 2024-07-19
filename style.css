@@ -35,6 +35,7 @@ ul{
     justify-content: space-between;
     padding: 100px;
     align-items: center;
+    gap: 20px;
 }
 
 .header-logo{
@@ -55,4 +56,17 @@ ul{
     font-size: 48px;
     font-weight: 900;
     color: #F9FAf8;
+}
+
+.sign-up{
+    background-color: #3882F6;
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 12px;
+    font-weight: 800;
+    margin-top: 10px;
 }
