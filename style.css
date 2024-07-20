@@ -10,7 +10,7 @@ body{
 
 .upper-section{
     padding:16px 150px;
-    background-color: #1f2931;
+    background-color: #1f2937;
 } 
 
 .nav{
@@ -68,11 +68,19 @@ ul{
     padding: 10px 30px;
     border-radius: 12px;
     font-weight: 800;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .sign-up:hover{
     background-color: #0a5ada;
     cursor: pointer;
 
+}
+
+.sun-image{
+    border: 2px solid white;
+}
+
+.hero-side{
+    margin-top: 10px;
 }
