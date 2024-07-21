@@ -84,3 +84,14 @@ ul{
 .hero-side{
     margin-top: 10px;
 }
+
+.head-info{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.up-middle{
+    display: flex;
+    flex-direction: column;
+}
