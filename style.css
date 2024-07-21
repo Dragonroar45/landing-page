@@ -94,4 +94,15 @@ ul{
 .up-middle{
     display: flex;
     flex-direction: column;
+    gap: 35px;
+    padding: 30px 200px 100px;
+}
+
+.img-text{
+    display: flex;
+    gap: 20px;
+}
+
+.contain{
+    text-align: center;
 }
