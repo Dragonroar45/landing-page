@@ -158,3 +158,12 @@ ul{
     font-weight: bold;
     color: #1f2937;
 }
+
+.call{
+    padding: 100px 200px;
+}
+
+.call-sect{
+    background-color: #3882F6;
+    padding: 30px 50px;
+}
