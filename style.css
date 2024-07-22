@@ -131,3 +131,30 @@ ul{
 .text.unique{
     padding: 0;
 }
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+    padding-bottom: 50px;
+    gap: 20px;
+}
+
+.main-quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    width: 700px;
+}
+.citation{
+    display: flex;
+    justify-content: end;
+    font-size: 25px;
+    width: 700px;
+    font-weight: bold;
+    color: #1f2937;
+}
