@@ -6,6 +6,9 @@
 }
 body{
     font-family: 'Roboto';
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .upper-section{
@@ -172,7 +175,8 @@ ul{
     display: flex;
     justify-content: space-between;
     border-radius: 8px;
-    width: 60%;
+    width: 55%;
+    align-items: center;
 }
 
 .call-sign{
@@ -190,4 +194,24 @@ ul{
 .sign-text{
     font-size: 15px;
     color: #E5E7EB;
+}
+
+.sign-btn{
+    background-color: #3882F6;
+    border: 1px solid white;
+    color: white;
+    font-weight: 800;
+    padding: 15px;
+    border-radius: 8px;
+    transition-duration: 5ms;
+}
+
+.btn{
+    width: 100px;
+}
+
+.sign-btn:hover{
+    background-color: white;
+    color: #3882F6;
+    cursor: pointer;
 }
